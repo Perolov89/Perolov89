@@ -5,11 +5,10 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/olle-s-013162273/](https://www.linkedin.com/in/olle-s-013162273/)
+- 👨‍💻 All of my projects are available in the decription at [https://www.linkedin.com/in/olle-s-013162273/](https://www.linkedin.com/in/olle-s-013162273/)
 
 - 📫 How to reach me **olle.staalberg@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
