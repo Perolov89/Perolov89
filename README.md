@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olle</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">Passionate AI developer</h3>
 
 - 🌱 I’m currently learning **Pytorch**
 
