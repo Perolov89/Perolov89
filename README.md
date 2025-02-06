@@ -5,7 +5,16 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/olle-s-013162273/](https://www.linkedin.com/in/olle-s-013162273/)
+- 👨‍💻 Some of my projects:
+  
+  - **[The operationalizer](https://operationalizer.vercel.app/)** - An AI model that can interpret the numbers 0-9 and the operators + - * /, presented in a Halloween-themed frontend.  
+
+  - **[Taxspenses](https://taxpenses-frontend.vercel.app/)** - A small website that lets you track the incomes and expenses of the Swedish government.  
+
+  - **[Qanda](https://qanda-wine.vercel.app/)** - A quiz game that lets the user choose difficulty and genre.  
+
+  - **[Music Recommender](https://github.com/Eaglewing89/music_recommender)** - Small hackathon project with a fellow student. A music recommendation app that recommends songs based on a song selected by the user.
+
 
 - 📫 How to reach me **olle.staalberg@gmail.com**
 
